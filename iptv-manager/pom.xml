@@ -86,6 +86,7 @@
 						</exclude>
 					</excludes>
                     <executable>true</executable>
+                    <mainClass>com.iptv.IptvApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
